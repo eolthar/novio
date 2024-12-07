@@ -1,0 +1,20 @@
+{
+    "name": "novio",
+    "description": "Легкий и быстрый пакет для работы с SFTP-серверами без сторонних зависимостей",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Mlad (https://github.com/eolthar)",
+    "license": "MIT (Modified)",
+    "keywords": [
+        "sftp",
+        "ssh",
+        "file transfer",
+        "ftp",
+        "nodejs",
+        "terminal",
+        "ssh2",
+        "file system",
+        "client",
+        "protocol"
+    ]
+}
