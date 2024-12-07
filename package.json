@@ -2,7 +2,7 @@
     "name": "novio",
     "description": "Легкий и быстрый пакет для работы с SFTP-серверами без сторонних зависимостей",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "main.js",
     "author": "Mlad (https://github.com/eolthar)",
     "license": "MIT (Modified)",
     "keywords": [
